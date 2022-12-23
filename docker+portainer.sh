@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Source: https://docs.docker.com/engine/install/debian/
 # On supprime de potentielles anciennes installations
 apt update
